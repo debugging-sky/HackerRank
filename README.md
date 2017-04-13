@@ -1,2 +1,2 @@
 # HackerRank
-#I have created this repo for keeping tracck of my slutions as well as to help others to refer to this
+#I have created this repo to keep track of my solutions as well as to help others 
